@@ -1,0 +1,3 @@
+data: 2024-09-19T02:01:09.302Z
+metodo: GET
+rota: /favicon.ico
